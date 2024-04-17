@@ -38,8 +38,8 @@ Leveraging data from the past three IPL seasons, I've created an interactive das
 - Figma: For dashboard designing.
 
 ## Important Links
-- [(https://app.powerbi.com/view?r=eyJrIjoiODVhNzU0YTAtNTAzMC00NTY3LTgwNDctNmM1NTVhMDNmZGIzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)](#) (Interactive Dashboard).
-- [https://www.linkedin.com/feed/update/urn:li:activity:7185675216835014656/](#) (Video Presentation).
+- [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVhNzU0YTAtNTAzMC00NTY3LTgwNDctNmM1NTVhMDNmZGIzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Video Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7185675216835014656/)
 
 ## Learnings from the Project
 - Enhanced understanding of sports analytics, data visualization, and storytelling.
