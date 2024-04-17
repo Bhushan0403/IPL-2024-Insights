@@ -15,7 +15,7 @@ Leveraging data from the past three IPL seasons, I've created an interactive das
 - Prediction of Orange and Purple Cap winners for the 2024 season.
 - Determination of the top 4 qualifying teams.
 - Forecasting the winner and runner-up of the season.
-- Selection of the Best 11 players and top 3 all-rounders based on performance data and additional research.
+- Selection of the Best 11 players and top 3 all-rounders based on performance data.
 
 ## Extract, Transform, and Load (ETL) Technique
 - Importing CSV Files into Power BI:
